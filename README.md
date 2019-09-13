@@ -1,2 +1,2 @@
-# survival-game
+# Survival Game
 A small survival game based in unity.
